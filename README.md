@@ -20,8 +20,8 @@ Pretty simple:
 	require_once('snaphax/snaphax.php');
 
 	$opts = array();
-	$opts['username'] = 'username';
-	$opts['password'] = 'password';
+	$opts['username'] = 'dawit69';
+	$opts['password'] = 'Akarespect';
 	$opts['debug'] = 1; 
 
 	$s = new Snaphax($opts);
